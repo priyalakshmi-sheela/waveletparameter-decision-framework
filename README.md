@@ -20,4 +20,4 @@ Each folder is self-contained, with its own `README.txt`, `requirements.txt`, Py
 
 If you use this code in your research, please cite the accompanying article listed below:
 
-P. Sheela and I. Dey, “Advances in Wavelet Denoising for Communication Signals: From Parameter Selection Toward Data-Driven Optimization,” *IEEE Open Journal of the Communications Society*, Accepted for publication.
+P. Sheela and I. Dey, "Advances in Wavelet Denoising for Communication Signals: From Parameter Selection Toward Data-Driven Optimization," IEEE Open Journal of the Communications Society, early access, 2026, doi: 10.1109/OJCOMS.2026.3743854.
