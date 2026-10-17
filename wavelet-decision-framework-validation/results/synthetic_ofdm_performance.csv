@@ -1,0 +1,9 @@
+Noise Regime,Method,BER,EVM (%),NMSE,SNR Gain (dB)
+AWGN,Raw LS,0.1066,60.5,0.2063,0.0
+AWGN,DFT tuned,0.0877,50.0,0.0715,8.27
+AWGN,Fixed wavelet,0.0934,51.3,0.1206,7.61
+AWGN,Proposed framework,0.0883,50.1,0.0646,8.38
+Impulsive,Raw LS,0.1013,60.0,0.2208,0.0
+Impulsive,DFT tuned,0.0828,48.8,0.0716,8.63
+Impulsive,Fixed wavelet,0.0905,50.4,0.1466,7.57
+Impulsive,Proposed framework,0.0826,48.8,0.0693,8.61

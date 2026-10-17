@@ -1,0 +1,5 @@
+Noise Regime,Comparison,p (Holm)
+AWGN,framework vs fixed wavelet,6.1e-18
+AWGN,framework vs raw LS,4.5e-22
+Impulsive,framework vs fixed wavelet,4.8e-12
+Impulsive,framework vs raw LS,1.5e-16
